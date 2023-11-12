@@ -2,11 +2,11 @@
 
 Table Of Contents
 
-Introduction
-About the Dataset
-Python libraries used
-Project Work flow
-purpose of the analysis
+- Introduction
+- About the Dataset
+- Python libraries used
+- Project Work flow
+- Purpose of the analysis
 
 
 # Introduction
