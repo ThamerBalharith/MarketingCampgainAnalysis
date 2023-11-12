@@ -2,13 +2,14 @@
 
 Table Of Contents
 
-Introduction of Airbnb
+Introduction
 About the Dataset
 Python libraries used
 Project Work flow
 purpose of the analysis
-Certificate
-Introduction of Airbnb
+
+
+# Introduction
 
 Airbnb is a popular online platform that allows individuals to list, discover, and book unique accommodations around the world. It was founded in 2008 by Brian Chesky, Joe Gebbia and Nathan Blecharczyk, and has since become the largest and most successful home-sharing companies in the world.
 
@@ -16,7 +17,7 @@ Airbnb allows hosts to list their homes, apartments, or other properties for sho
 
 Airbnb has also become a popular choice for travelers who want to experience a destination like a local, rather than as a tourist. With more than four million listings in over 100,000 cities.
 
-About the Dataset – AIRBNB BOOKINGS
+# About the Dataset
 
 Dataset Information
 
@@ -30,7 +31,7 @@ This Dataset may be useful for analyzing trends and patterns in the Airbnb marke
 
 This dataset contains information about Airbnb bookings in New York City in 2019. By analyzing this data, you may be able to understand the trends and patterns of Airbnb use in the NYC.
 
-Different Python libraries used to complete this EDA:
+# Different Python libraries used to complete this EDA:
 
 Pandas
 
@@ -56,6 +57,6 @@ Data Visualization
 
 Conclusion
 
-The purpose of the analysis
+# The purpose of the analysis
 
 understanding the factors that influence Airbnb prices in New York City, or identifying patterns of all variables and Our analysis provides useful information for travelers and hosts in the city and also provides some best insights for Airbnb business.
