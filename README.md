@@ -20,9 +20,9 @@ Problem Objective: As a data scientist, you should perform exploratory data anal
 
 Dataset Information
 
-Number of instances: 48895
+Number of instances: 2240
 
-Number of attributes: 16
+Number of attributes: 27
 
 The variables birth-year, education, income, and so on are related to the first 'P' or 'People' in the tabular data provided to the user. The amount spent on wine, fruits, gold, etc., is related to ‘Product’. The information pertinent to sales channels, like websites, stores, etc., is related to ‘Place’, and the fields which talk about promotions and results of different campaigns are related to ‘Promotion’.
 
