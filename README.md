@@ -1,6 +1,6 @@
 # MarketingCampgainAnalysis
 
-Table Of Contents
+Table Of Contents:
 
 - Introduction
 - About the Dataset
@@ -40,6 +40,10 @@ NumPy
 Matplotlib.Pyplot
 
 Seaborn
+
+Scipy
+
+Sklearn
 
 # Project Work flow
 
