@@ -65,9 +65,9 @@ The goal is to gain a better understanding of the various factors that contribut
 
 1. Older people are as tech-savvy and they not prefer shopping in-store.
 2. Customers with kids have time to visit a store and would not prefer to shop online.
-3. Does the US fare significantly better than the rest of the world in terms of total purchases? doesn't
-4. Which products are performing the best, and which are performing the least in terms of revenue? We can say that most of the customers are          spending there money on wines, meat, Gold, Fish, Fruits & sweet as the last one.
-5. Is there any pattern between the age of customers and the last campaign acceptance rate? yes there's as we saw
-6. Which Country has the greatest number of customers who accepted the last campaign? SP was first.
+3. There is no indication that the United States fares significantly better than the rest of the world in terms of total purchases. To make a         definitive assessment, specific data on total purchases from different countries would be needed for comparison.
+4. Based on the information you provided, it appears that the products performing the best in terms of revenue are wines, meat, gold, fish,           fruits, and sweets. These products are popular among customers, and they are likely spending a significant amount of money on them.
+5. Based on the information you provided, there appears to be a pattern between the age of customers and the last campaign acceptance rate. It        suggests that certain age groups may have a higher or lower likelihood of accepting the campaign.
+6. Spain is the country with the greatest number of customers who accepted the last campaign.
 7. There's relation between the no.children and the total spending, as we saw singles were spend more than the families in Wine.
 8. Education background of the customers who complained in the last 2 year.
