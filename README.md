@@ -7,6 +7,7 @@ Table Of Contents:
 - Python libraries used
 - Project Work flow
 - Purpose of the analysis
+- Outcomes of the analysis
 
 
 # Introduction
@@ -59,3 +60,7 @@ Conclusion
 # The purpose of the analysis
 
 The goal is to gain a better understanding of the various factors that contribute to customer acquisition. Also, I can gain a deeper understanding of customer behavior, identify trends and patterns, and make data-driven decisions to optimize marketing strategies, product offerings, distribution channels, and promotional campaigns.
+
+# Outcomes of the analysis
+
+
